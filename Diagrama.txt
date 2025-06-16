@@ -1,0 +1,15 @@
+🔹 DIAGRAMA DE CONEXIÓN 🔹
+✅ Servo Motor:
+
+Cable rojo (Vcc) → 5V en Arduino
+
+Cable café o negro (GND) → GND en Arduino
+
+Cable naranja o amarillo (señal) → Pin 9 en Arduino (o el que esté especificado en tu sketch)
+
+✅ LED:
+
+Ánodo (+, patilla más larga) → Pin 13 en Arduino
+
+Cátodo (-, patilla más corta) → GND en Arduino
+(o si deseas, a través de una resistor de 220Ω hacia GND)
